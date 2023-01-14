@@ -25,4 +25,5 @@ France
 SIRET: 832 472 005 00012
 TVA Intracommunautaire: FR95832472005
 Code NAF: 6202A
+email: cedric@f52.tech
 ```
