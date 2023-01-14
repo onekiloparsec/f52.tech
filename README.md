@@ -22,7 +22,7 @@ F52 technologies
 66 Boulevard Gambetta
 38000 Grenoble
 France
-SIRET [832 472 005 00012](https://www.societe.com/societe/monsieur-cedric-follmi-832472005.html)
+SIRET: 832 472 005 00012
 TVA Intracommunautaire: FR95832472005
 Code NAF: 6202A
 ```
