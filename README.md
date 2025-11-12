@@ -13,7 +13,9 @@ F52.tech is the technologic declination of the F52.
 
 "F52 technologies" is the legal french company owned by Cédric Foellmi, a.k.a. [@onekiloparsec](https://twitter.com/onekiloparsec).
 
-It is the legal umbrella of [arcsecond.io](https://www.arcsecond.io).
+Our domain of expertise: consulting and coaching on software practices & culture, transformation and support.
+
+The new legal umbrella of [arcsecond.io](https://www.arcsecond.io) is now [4Pi technologies](https://4pi.tech).
 
 ## Information
 
