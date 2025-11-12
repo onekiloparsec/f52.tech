@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme #
 title: f52.tech
-description: Legal home of Arcsecond.io by onekiloparsec (a.k.a. Cédric Foellmi)
+description: Legal home of the consulting company by @onekiloparsec (a.k.a. Cédric Foellmi)
 logo: RondF52_coul.png
